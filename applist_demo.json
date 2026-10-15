@@ -1,0 +1,36 @@
+{
+    "wow_recommendations": [
+        "app_01",
+        "app_03"
+    ],
+    "apps": [
+        {
+            "id": "app_01",
+            "name": "Retro Game Emulator",
+            "description": "Эмулятор классических консолей 8-бит и 16-бит. Поддержка геймпадов и быстрых сохранений.",
+            "version": "1.4.2",
+            "download_url": "https://example.com/downloads/retro_emu.apk"
+        },
+        {
+            "id": "app_02",
+            "name": "Doom Mobile Port",
+            "description": "Легендарный шутер, адаптированный под сенсорное управление Android-смартфонов.",
+            "version": "2.0.0",
+            "download_url": "https://example.com/downloads/doom_mobile.apk"
+        },
+        {
+            "id": "app_03",
+            "name": "SCUMMVM Player",
+            "description": "Запуск классических point-and-click квестов на вашем телефоне. Включает демо-версии игр.",
+            "version": "2.8.1",
+            "download_url": "https://example.com/downloads/scummvm.apk"
+        },
+        {
+            "id": "app_04",
+            "name": "Duke Nukem 3D",
+            "description": "Классический трехмерный экшен. Полная поддержка оригинальных wad-файлов уровней.",
+            "version": "1.0.5",
+            "download_url": "https://example.com/downloads/duke3d.apk"
+        }
+    ]
+}
